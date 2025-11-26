@@ -116,7 +116,7 @@ void Debug::debug_task(void *pvParameters) {
     printf("\n =============================================================\n");
     printf(" |                   Head Debug Console                      |\n");
     printf(" =============================================================\n");
-    printf(" |   power_get                    - Get power status         |\n");
+    printf(" |   power_get                   - Get power status          |\n");
     printf(" |   power_set <0|1>             - disable/enable PD         |\n");
     printf(" |   servo <index> <angle>       - Set servo angle           |\n");
     printf(" =============================================================\n\n");
