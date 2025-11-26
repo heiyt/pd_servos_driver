@@ -1,0 +1,12 @@
+idf_component_register(
+        SRCS
+        "servo_driver.cpp"
+        "power/power.cpp"
+        "servo/servo.cpp"
+        "debug/debug.cpp"
+        INCLUDE_DIRS
+        "."
+        "power"
+        "servo"
+        "debug"
+)

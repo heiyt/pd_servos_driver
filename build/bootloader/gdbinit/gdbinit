@@ -1,0 +1,2 @@
+source /home/heiyt/Projects/ESP32Projects/servo_driver/build/bootloader/gdbinit/symbols
+source /home/heiyt/Projects/ESP32Projects/servo_driver/build/bootloader/gdbinit/connect
